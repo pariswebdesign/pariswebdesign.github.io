@@ -1,0 +1,12 @@
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+title: "Freelance Web Designer Paris" # the name of your site, e.g. ACME Corp.
+description: Hello! My name is Lukasz and I'm an expert in web design, online store creation, SEO and online marketing for small businesses, freelancers, personal projects and startups. If you are looking for an elegant, functional, practical and profitable website... you have come to the right place, you are very welcome.
+
+sidebar_text_1: If you have a small business and you don't even know where to start with this "digital world", call me, or write me an email, whatever you prefer, and tell me your case
+
+
+point1: Located in Paris
+point2: web design rates espcialy for small businesses
+point3: freelancer and start-ups
+point4: fresh new website service or to upgrade
