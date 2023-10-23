@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Freelance Web Designer Paris
+title: Freelance Web Designer Paris - Lukasz (Freelancer)
 description:
 ---
 
