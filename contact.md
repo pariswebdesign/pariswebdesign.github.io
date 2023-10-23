@@ -6,7 +6,7 @@ permalink: contact
 
 
 
-<form action="https://formspree.io/f/xgepqgne" method="POST" autocomplete="off">
+<form action="https://formsubmit.co/lukasz.adms@gmail.com" method="POST">
 
   <div class="form-control">
      <input type="name" required> 
