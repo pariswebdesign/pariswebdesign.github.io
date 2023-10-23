@@ -8,7 +8,7 @@ description:
 
 I put at your disposal simple rates, very complete, at an adjusted price and with an incredible quality-price ratio. So you can launch your business idea, renew your company's website, start selling your products and have the peace of mind that your online image is absolutely impeccable. For Paris and France.
 
-<img id="face" src="/paris.png" alt="paris">
+<img src="/paris.png" alt="paris">
 
 ## Web Designer Services
 
