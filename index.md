@@ -43,6 +43,8 @@ You are tired of those "Make your website in three hours with no knowledge" vide
 I am an expert in turning your Internet strategy around to get you to generate new customers, your website to talk about you and your competitors to start looking at you as the enemy to beat 😉 I can offer you web design, maintenance plans, fully equipped online stores or advanced SEO plans fully customized for your project.
 
 
+## Contact Me Here
+
 <form action="https://formsubmit.co/lukasz.adms@gmail.com" method="POST">
 
   <div class="form-control">
