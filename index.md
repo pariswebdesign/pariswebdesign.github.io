@@ -41,3 +41,24 @@ You are tired of those "Make your website in three hours with no knowledge" vide
 
 ## Change the story of your business!
 I am an expert in turning your Internet strategy around to get you to generate new customers, your website to talk about you and your competitors to start looking at you as the enemy to beat 😉 I can offer you web design, maintenance plans, fully equipped online stores or advanced SEO plans fully customized for your project.
+
+
+<form action="https://formsubmit.co/lukasz.adms@gmail.com" method="POST">
+
+  <div class="form-control">
+     <input type="name" required name="name"> 
+      <label>Name:</label>
+  </div>
+
+  <div class="form-control">
+    <input type="email" required name="email">
+    <label>Email:</label>
+  </div>
+
+  <div class="form-control">
+  <input type="textarea" required name="message">
+  <label>Message:</label>
+  </div>
+
+  <button class="submit--button" type="submit" value="Send">Send</button>
+</form>
